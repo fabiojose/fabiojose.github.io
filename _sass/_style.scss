@@ -2424,16 +2424,16 @@ body {
       .active > a {
         background: 0 0;
         color: #fff;
-        border-top: 6px solid #3385FF;
+        border-top: 6px solid #007d4a;
         &:hover {
           background: 0 0;
           color: #fff;
-          border-top: 6px solid #3385FF;
+          border-top: 6px solid #007d4a;
         }
       }
       li > a {
         &:focus, &:hover {
-          color: #3385FF;
+          color: #007d4a;
           background: inherit;
         }
       }
