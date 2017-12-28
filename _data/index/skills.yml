@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects:    Automation principles, App engineering, Cloud architecture, Microservices, Java, Nodejs, Docker, Linux, Communication, Abstract thinking, Agile practices
-percentage: 100, 100, 90, 80, 100, 70, 95, 80, 85, 100, 80
+aspects:    App engineering, Cloud architecture, Microservices, Java, Nodejs, Docker, Linux, Abstract thinking, Agile practices
+percentage: 100,             90,                 80,            100,  70,     95,     80,    100,               80
