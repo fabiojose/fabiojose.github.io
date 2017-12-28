@@ -256,7 +256,7 @@ body.canvas-menu .nav-header {
 }
 
 .top-navigation .navbar-brand {
-  background: #004d7a;
+  background: #3385FF;
   color: #fff;
   padding: 15px 25px;
 }
@@ -2424,16 +2424,16 @@ body {
       .active > a {
         background: 0 0;
         color: #fff;
-        border-top: 6px solid #004d7a;
+        border-top: 6px solid #3385FF;
         &:hover {
           background: 0 0;
           color: #fff;
-          border-top: 6px solid #004d7a;
+          border-top: 6px solid #3385FF;
         }
       }
       li > a {
         &:focus, &:hover {
-          color: #004d7a;
+          color: #3385FF;
           background: inherit;
         }
       }
@@ -2448,14 +2448,14 @@ body {
     }
     .navbar-brand {
       &:focus, &:hover {
-        background: #004d7a;
+        background: #3385FF;
         color: #fff;
       }
       color: #fff;
       height: auto;
       display: block;
       font-size: 14px;
-      background: #004d7a;
+      background: #3385FF;
       padding: 15px 20px;
       border-radius: 0 0 5px 5px;
       font-weight: 700;
@@ -2763,7 +2763,7 @@ body {
       .nav li a {
         color: #676a6c;
         &:hover {
-          color: #004d7a;
+          color: #3385FF;
         }
       }
     }
