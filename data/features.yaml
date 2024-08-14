@@ -1,0 +1,73 @@
+about:
+  name: Fábio José
+  tagline: Solutions Architect
+  phone: "11 993 746 822"
+  email: fjosemor@nttdata.com
+  links:
+    - title: /in/fabiojose
+      url: https://linkedin.com/in/fabiojose
+      icon: fab fa-linkedin
+
+    - title: fabiojose
+      url: https://github.com/fabiojose
+      icon: fab fa-github
+  
+  details: |
+    Bachelor in Computing Science, with deep knowledge in technical and architectural
+    solutions for development and operations to cloud-native applications. 
+    Result-driven professional with proven experience in large scale projects in banking,
+    telecom, aviation, logistics, and retail sectors.
+
+
+skills:
+  - groupName: Cloud Architecture
+    list:
+      - AWS
+      - Azure
+      - Event-driven
+      - Serverless
+      - Kubernetes
+
+  - groupName: Programming & Systems
+    list:
+      - Java
+      - Python
+      - Git
+      - Docker 
+      - Linux
+
+  - groupName: Automation first principles
+    list:
+      - Bash
+      - Python
+      - CI/CD
+
+interests:
+  - New Tools
+  - AI Applications
+  - Optimization Problems
+  - Reading
+  - Open Source
+  - Learning new skills
+  - History
+  - Everything-as-Code
+  - Parallel & Concurrent Programming
+
+languages:
+  - name: Portuguese
+    level: Native
+
+  - name: English
+    level: Professional
+  
+  - name: Spanish
+    level: Professional
+
+# This will use the default widget: "details-list"
+awards: []
+
+certificates:
+  - title: AWS Certified Solutions Architect
+    subtitle: Associate
+    date: "2024"
+    link: https://www.credly.com/badges/5cd6ef9e-dbf0-4a31-a611-6d1deb646126

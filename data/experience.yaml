@@ -1,0 +1,29 @@
+- company: NTT DATA
+  roles:
+    - role: Solutions Architect
+      details: |
+        Understood the customers' needs and weaknesses, helping them with solutions and right architecture to perform transformations with distributed systems adoption -- including the explorations, definitions, tool experimentation, and coding.
+
+        Achieved the lock-in reduction, using open standards and open-source software.
+
+        Created solutions that reduce the coupling between services and channels.
+      date: 05.2016 -  Present
+
+    - role: Software Engineer
+      details: |
+        Have been elaborated application architecture and development models -- including java ee, service-oriented, frontend, microservices, and component-based 
+
+        Increased coding compliance and reducing the coding errors with architectural, practices and work models driving the team to follow standards, meeting the definition-of-done for the features.
+      date: 05.2014 -  05.2016
+
+- company: Prime IT Services
+  roles: 
+    - role: Senior Java Programmer
+      tools: SQL, Flink, Kafka
+      details: |
+        Developed high-performance enterprise java applications, components, integration and web services -- including banks, insurance, and retail.
+
+        I had trained co-workers to improve their programming skills with coding dojos, ad-hoc projects, and micro-challenges.
+
+      date: 10.2011 - 05.2014
+    

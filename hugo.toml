@@ -1,0 +1,118 @@
+languageCode = 'en-us'
+theme = "resume-a4"
+baseURL = "/"
+title = "Resume | Fábio J. Moraes"
+
+disableKinds = [
+  "taxonomy",
+  "term",
+  "page",
+  "section",
+  "RSS",
+  "sitemap",
+  "robotsTXT",
+  "404"
+]
+
+[params]
+	useFontAwesome = true
+	externalLinkIcon = true
+	css = [ "custom.scss" ]
+
+	[params.header]
+		avatar = false
+		contact = true
+		tagline = true
+		links = true
+
+  [[params.side]]
+  feature = "languages"
+
+  [[params.side]]
+  feature = "skills"
+  widget = "word-list"
+  style = "compact"
+
+  [[params.side]]
+  feature = "education"
+
+  [[params.side]]
+  feature = "interests"
+  widget = "word-list"
+  style = "list"
+
+  [[params.pages]]
+	[[params.pages.features]]
+		feature = "about"
+		title = "About Me"
+
+	[[params.pages.features]]
+		feature = "experience"
+
+	[[params.pages.features]]
+		feature = "certificates"
+		title = "Certifications"
+
+#[[params.pages]]
+	#[[params.pages.features]]
+	#	feature = "experience"
+	#	title = "Experience (Cont.)"
+
+	#[[params.pages.features]]
+	#	feature = "projects"
+	#	collection = "projects"
+
+	#[[params.pages.features]]
+	#	feature = "publications"
+	#	style = "IEEE"
+
+	#[[params.pages.features]]
+	#	feature = "awards"
+
+	#[[params.pages.features]]
+	#	feature = "certificates"
+	#	title = "Certifications"
+
+	#[[params.pages.features]]
+	#	feature = "interests"
+	#	widget = "word-list"
+	#	style = "list"
+
+[params.experience.tools]
+	show = false
+	title = "Technologies"
+
+[params.education]
+	useFontAwesome = true
+	externalLinkIcon = false
+
+[params.education.location]
+	show = false
+
+[params.education.details]
+	show = false
+
+  [params.publications]
+  useFontAwesome = false
+  externalLinkIcon = false
+
+  [params.itemTitle]
+  useFontAwesome = false
+  externalLinkIcon = false
+
+  [params.footer]
+  show = true
+  credits = false
+  footnote = "You can print this resume in A4 size or save as pdf."
+
+    [[params.footer.links]]
+    prefix = "Contact me on"
+    title = "Linkedin"
+    url = "https://linkedin.com/in/fabiojose/"
+    icon = "fab fa-linkedin"
+
+    #[[params.footer.links]]
+    #prefix = "Check out my"
+    #title = "Website"
+    #url = "https://mertbakir.gitlab.io/about/"
+    #icon = "fas fa-globe"
